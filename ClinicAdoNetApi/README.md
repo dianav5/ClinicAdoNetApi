@@ -15,6 +15,7 @@ ASP.NET Core Web API z ADO.NET i SQL Server.
 - SQL Server
 - ADO.NET
 
+
 ## Uruchomienie
 1. Uruchomić skrypt `01_create_and_seed_clinic.sql`
 2. Ustawić connection string w `appsettings.json`
